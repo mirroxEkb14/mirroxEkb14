@@ -16,10 +16,12 @@ Programming is not the only thing I do but also in my free time I usually:
 
 
 ## Meet me:link:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirroxEkb14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vance7187)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vance_7187/)  
+[<img src='https://user-images.githubusercontent.com/72064941/144665918-bb38fbeb-dec1-4876-8b16-7d6c8881cd49.jpg' alt='facebook_icon' height='35'>](https://www.facebook.com/vance7187) [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='inst_icon' height='35'>](https://www.instagram.com/vance_7187/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github_icon' height='35'>](https://github.com/mirroxEkb14) 
 
 <!--
 **mirroxEkb14/mirroxEkb14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg
+https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg
 
 Here are some ideas to get you started:
 
