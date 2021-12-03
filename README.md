@@ -14,6 +14,11 @@ In free time I usually:
 - :computer: Itellij IDEA, Android Studio, GIT
 - :iphone: Java, Kotlin
 
+## Meet me:link:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirroxEkb14)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vance7187)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vance_7187/)  
+
 <!--
 **mirroxEkb14/mirroxEkb14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
