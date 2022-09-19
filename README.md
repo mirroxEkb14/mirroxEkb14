@@ -14,4 +14,4 @@ I'm a student from Kazakhstan [<img src='https://user-images.githubusercontent.c
 [<img src='https://user-images.githubusercontent.com/72064941/144665918-bb38fbeb-dec1-4876-8b16-7d6c8881cd49.jpg' alt='facebook_icon' height='35'>](https://www.facebook.com/vance7187) [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='inst_icon' height='35'>](https://www.instagram.com/vance_7187/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github_icon' height='35'>](https://github.com/mirroxEkb14) 
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirroxEkb14)](https://github.com/anuraghazra/github-readme-stats)
