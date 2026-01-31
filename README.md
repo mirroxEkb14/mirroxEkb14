@@ -1,17 +1,16 @@
 # Hi there, I`m Daniyar 👋
-A 22-year-old enthusiast who wants to become a true software creator. Let`s get acquanted!
 
-![andeoid-gif](https://4.bp.blogspot.com/-8Atm-hsQ0MQ/XJcq8yu2QhI/AAAAAAAAAAM/UJC6EgSNarkOAvSO1Ld6xKhBntSP7FrEACLcBGAs/s200/CAvT.gif)
+📍[<img src='https://cdn.countryflags.com/thumbs/czech-republic/flag-waving-250.png' alt='cz_icon' height='10'>](https://en.wikipedia.org/wiki/Czech_Republic) Czech Republic, Pardubice | 💻 Software Developer, Web & Backend
 
-## About me:👀:
-I'm a student from Kazakhstan [<img src='https://user-images.githubusercontent.com/72064941/144663082-afe18fae-1ff1-4a47-b1e3-6557980e45e6.png' alt='kz_icon' height='15'>](https://en.wikipedia.org/wiki/Kazakhstan) who is currently living and studying in the Czech Republic [<img src='https://cdn.countryflags.com/thumbs/czech-republic/flag-waving-250.png' alt='cz_icon' height='10'>](https://en.wikipedia.org/wiki/Czech_Republic). I have already managed to learn Czech and got into university to become an Android Developer. <br>
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/) [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/) [![Filament](https://img.shields.io/badge/Filament-FFAA00)](https://filamentphp.com/) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/) [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-## I code with:⌨️:
-[<img src='https://user-images.githubusercontent.com/72064941/144659267-048f8a91-e10d-4ed4-825c-3c36baf9d322.jpg' alt='java_icon' height='40'>](https://en.wikipedia.org/wiki/Java_(programming_language)) [<img src='https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg' alt='kotlin-icon' height='40'>](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg' alt='idea-icon' height='40'>](https://en.wikipedia.org/wiki/IntelliJ_IDEA) [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png' alt='studio_icon' height='40'>](https://en.wikipedia.org/wiki/Android_Studio) [<img src='http://www.klaasnienhuis.nl/WordPress/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg' alt='git_icon' height='40'>](https://en.wikipedia.org/wiki/Git)
+> Currently working at <a href='https://tandakids.kz/en'>Tanda</a> as Junior Backend (Laravel + Filament) after traineeship. Simultaneously finishing my `Bc.` degree at <a href='https://www.upce.cz/en'>University of Pardubice</a> in Information Technologies (Web specialization)
 
+[![GitHub](https://img.shields.io/badge/GitHub-mirroxEkb14-181717?logo=github&logoColor=white)](https://github.com/mirroxEkb14) [![GitLab](https://img.shields.io/badge/GitLab-vance__7187-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/vance_7187) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniyar_Amirov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyar-amirov-103467227/) [![Telegram](https://img.shields.io/badge/Telegram-@vance__7187-26A5E4?logo=telegram&logoColor=white)](https://t.me/vance_7187)
 
-## Meet me:🔗:
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin_icon' height=35>](https://www.linkedin.com/in/daniyar-amirov-103467227/) [<img src='https://user-images.githubusercontent.com/72064941/144665918-bb38fbeb-dec1-4876-8b16-7d6c8881cd49.jpg' alt='facebook_icon' height='35'>](https://www.facebook.com/vance7187) [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='inst_icon' height='35'>](https://www.instagram.com/vance_7187/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github_icon' height='35'>](https://github.com/mirroxEkb14) 
+## Current Projects
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirroxEkb14)](https://github.com/anuraghazra/github-readme-stats)
+- 🧩 <a href='https://github.com/mirroxEkb14/bloghub'>bloghub</a> – Web <a href='https://www.patreon.com/home'>Patreon</a>-like platform for content creators and their supporters
+- 🤖 <a href='https://github.com/mirroxEkb14/TelegramRoverBot'>TelegramRoverBot</a> – Telegram bot for browsing a movie DB and offering users the most relevant results
+
+> Other repositories represent educational / semester projects, and most of them aren't supported already
